@@ -7,6 +7,5 @@ int main() {
     cout << "\nMy programming journey starts here.";
 cout << "\nI am learning GitHub!";
     cout << "\nToday I learned GitHub Diff!";
-    cout << "\nWorking on my first branch!";
     return 0;
 }
